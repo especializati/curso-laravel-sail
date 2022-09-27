@@ -11,5 +11,4 @@ Homestead.json
 Homestead.yaml
 auth.json
 /.idea
-/.vscode
 *.log
